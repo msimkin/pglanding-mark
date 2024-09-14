@@ -41,6 +41,12 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 
 ## Blog Posts
 
+#### [The return of Torus Based Cryptography: Whisk and Curdleproof in the target group](https://ethresear.ch/t/the-return-of-torus-based-cryptography-whisk-and-curdleproof-in-the-target-group/16678)
+- **Date:** September, 2023
+
+#### [Towards practical post quantum stealth addresses](https://ethresear.ch/t/towards-practical-post-quantum-stealth-addresses/15437)
+- **Date:** April, 2023
+
 #### [Fast G2 subgroup check in BN254](https://ethresear.ch/t/fast-mathbb-g-2-subgroup-check-in-bn254/13974)
 - **Date:** October, 2022
 
@@ -49,7 +55,7 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 
 #### [The ECFFT algorithm (without elliptic curve and isogenies!](https://ethresear.ch/t/the-ec-fft-algorithm-without-elliptic-curve-and-isogenies/11346)
 - **Date:** November, 2021
-- 
+
 #### [Secured no. 1 Protecting the Ethereum consensus-layer](https://blog.ethereum.org/2021/09/09/secured-no-1)
 - **Date:** September 9, 2021
 
