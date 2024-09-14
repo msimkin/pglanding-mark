@@ -41,9 +41,15 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 
 ## Blog Posts
 
+#### [Fast G2 subgroup check in BN254](https://ethresear.ch/t/fast-mathbb-g-2-subgroup-check-in-bn254/13974)
+- **Date:** October, 2022
+
 #### [Towards practical post quantum Single Secret Leader Election (SSLE) - Part 1](https://crypto.ethereum.org/blog/pq-ssle)
 - **Date:** August 30, 2022
-  
+
+#### [The ECFFT algorithm (without elliptic curve and isogenies!](https://ethresear.ch/t/the-ec-fft-algorithm-without-elliptic-curve-and-isogenies/11346)
+- **Date:** November, 2021
+- 
 #### [Secured no. 1 Protecting the Ethereum consensus-layer](https://blog.ethereum.org/2021/09/09/secured-no-1)
 - **Date:** September 9, 2021
 
