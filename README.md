@@ -46,3 +46,6 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
   
 #### [Secured no. 1 Protecting the Ethereum consensus-layer](https://blog.ethereum.org/2021/09/09/secured-no-1)
 - **Date:** September 9, 2021
+
+#### [Introducing Bandersnatch: a fast elliptic curve built over the BLS12-381 scalar field](https://ethresear.ch/t/introducing-bandersnatch-a-fast-elliptic-curve-built-over-the-bls12-381-scalar-field/9957)
+- **Date:** June, 2021
