@@ -36,6 +36,9 @@ I work as a researcher in the Cryptography team at the Ethereum Foundation.
 - **Published in:** Latincrypt
 - **Year:** 2023
 
+#### [Analysis of MinRoot](https://inria.hal.science/hal-04320126/file/minrootanalysis2023.pdf)
+- **Year:** 2023
+
 
 ---
 
