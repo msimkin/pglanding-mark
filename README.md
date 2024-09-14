@@ -1,7 +1,7 @@
 # My Research
 
 ## Team
-I work as a researcher in the Cryptography team at the Ethereum Foundation."
+I work as a researcher in the Cryptography team at the Ethereum Foundation.
 
 ## Focus
 - **Cryptograpy Research**
