@@ -11,7 +11,8 @@ I have previously been working as a cryptography researcher at the EF.
 
 ---
 
-## Selection of Publications (see https://msimkin.github.io for a full list)
+## Selection of Publications
+(see https://msimkin.github.io for a full list)
 
 #### [Time-Based Cryptography From Weaker Assumptions: Randomness Beacons, Delay Functions and More](http://ia.cr/2024/769)
 - **Authors:** Damiano Abram, Lawrence Roy, Mark Simkin
