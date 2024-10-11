@@ -1,7 +1,10 @@
 # My Research
 
-## Team
-I work as an independent cryptography researcher.
+## About me
+I am an independent cryptography researcher. 
+I received my PhD in October 2019 at Aarhus University, where I was advised by Ivan Damgård and co-advised by Claudio Orlandi. 
+After my PhD, I had the pleasure to be a postdoctoral researcher under the supervision of Kasper Green Larsen at Aarhus University. 
+I have previously been working as a cryptography researcher at the EF.
 
 ## Focus
 - **Cryptograpy Research**
